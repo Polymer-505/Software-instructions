@@ -13,4 +13,9 @@ footer {
 
 .link:visited,
 .link:link {
-color: #8d2b01;}
+    color: #8d2b01;
+}
+
+footer {
+    background-color: #212527;
+}
