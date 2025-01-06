@@ -1,5 +1,12 @@
+@font-face {
+    font-family: "Comfortaa";
+    font-style: normal;
+    src: url(../fonts/Comfortaa-VariableFont_wght.ttf);
+}
+
 body {
-    background-color: #1b1d1e
+    background-color: #1b1d1e;
+    font-family: "Comfortaa", sans-serif;
 }
 
 header {
@@ -8,7 +15,7 @@ header {
 
 main,
 footer {
-    color: #5e6d70;
+    color: #8a9597;
 }
 
 .link:visited,
